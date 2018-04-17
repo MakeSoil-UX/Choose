@@ -45,9 +45,9 @@ We decided to combine the message board and user message system as a community, 
 
 **Map**
 
-Very useful feature to search and filter based on distance and available time.
-Navigation may not be a good idea as everyone uses/ trusts Google maps.
-Idea- star favorite soil makers. Your favorites are automatically highlighted on the map.
++ Very useful feature to search and filter based on distance and available time.
++ Navigation may not be a good idea as everyone uses/ trusts Google maps.
++ Idea- star favorite soil makers. Your favorites are automatically highlighted on the map.
 
 ### Na Wen ###
 
