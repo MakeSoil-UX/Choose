@@ -152,7 +152,6 @@ Idea- star favorite soil makers. Your favorites are automatically highlighted on
 
 ## Final Story Board ##
 
-**Description**
 
 The story board mainly consists of six essential pages of the application: Logging In Page, Main Page (after logging in), Community page, Achievement page and Map page. 
 
