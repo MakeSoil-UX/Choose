@@ -152,7 +152,15 @@ Idea- star favorite soil makers. Your favorites are automatically highlighted on
 
 ## Final Story Board ##
 
+**Description**
+
+The story board mainly consists of six essential pages of the application: Logging In Page, Main Page (after logging in), Community page, Achievement page and Map page. 
+
+Firstly users need to log in to use the application. After logging in, it will direct to the main page. The main page contains a user panel and map panel. In the navigation bar, user could choose to go to the community page and view posts. Also users can see their achievement in the side bar. User could also expand the map and use the filter to get more accurate locations. By clicking the point on the map, user could view detailed information about the pile and make request.
+
 ![](./final.png)
+
+
 
 ## References ##
 
