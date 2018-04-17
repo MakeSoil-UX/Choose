@@ -152,4 +152,8 @@ Idea- star favorite soil makers. Your favorites are automatically highlighted on
 
 ## Final Story Board ##
 
+![](./final.png)
 
+## References ##
+
+MakeSoil Official Website: [http://makesoil.org/](http://makesoil.org/)
